@@ -28,7 +28,7 @@ google forms - Data Collection
 - High awareness of online threats (cyberbullying, scams) was observed in both genders.
 - No strong statistical association was found between age/gender and safety ratings (ANOVA, Chi-square).
 
-🔗 Connect With Me
-Neha Naidu
-📧 Email: [nehanaidu0704@gmail.com](mailto:nehanaidu0704@gmail.com)  
+🔗 Connect With Me<br>
+Neha Naidu<br>
+📧 Email: [nehanaidu0704@gmail.com](mailto:nehanaidu0704@gmail.com)  <br>
 🔗 LinkedIn: [linkedin.com/in/nehanaidu-tech](https://linkedin.com/in/nehanaidu-tech)
